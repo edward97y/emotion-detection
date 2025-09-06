@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+ultralytics
+numpy
+matplotlib
+scikit-learn
+pandas
+seaborn
+notebook
+
